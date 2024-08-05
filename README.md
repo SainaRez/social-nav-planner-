@@ -1,1 +1,5 @@
-# social_nav_planner
+# Social Nav Planner
+
+## Setup
+
+Setup environment with `conda env create -f environment.yml`
